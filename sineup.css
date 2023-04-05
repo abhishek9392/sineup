@@ -1,0 +1,49 @@
+#div1{
+    height:550px;
+    width:400px;
+    border: 2px solid black;
+    /* border-collapse:collapse */
+
+}
+#div2{
+    width:100%;
+    height:150px;
+    border:2px solid black;
+    /* border-collapse:collapse */
+
+}
+#div3{
+    width:100%;
+    height:396px;
+    border:2px solid black;
+    /* margin-left: 20%; */
+}
+#inp1,#inp2{
+    width:40%;
+    height:50px;
+    margin-left:5%;
+    margin-top: 5%;
+    background-color: lightgray;
+    font-size: medium
+}
+#inp3,#inp4,#inp5{
+    height:50px;
+    width:90%;
+    margin-left:5%;
+    margin-top:5%;
+    background-color: lightgray;
+}
+#inp6{
+    margin-left:5%;
+    margin-top:5%
+}
+button{
+    height:30px;
+    margin-left:5%;
+    margin-top:3%;
+    background-color: blue;
+    color:white
+
+
+}
+
